@@ -17,4 +17,5 @@
 ## Links
 ---
 [RIT](https://www.rit.edu)
-[SIS](https://www.campus.ps.rit.edu)
+
+[MyCourses](https://www.mycourses.rit.edu)
