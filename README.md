@@ -18,4 +18,4 @@
 ---
 [RIT](https://www.rit.edu)
 
-[MyCourses](https://www.mycourses.rit.edu)
+[MyCourses](https://mycourses.rit.edu/)
