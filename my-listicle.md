@@ -10,3 +10,5 @@
 - [*Map*](https://maps.rit.edu/)
 
 ![RIT Campus](https://cdn.rit.edu/images/news/2020-09/aerial_drone_09-web.jpg)
+
+![An image](md-images/cassie.jpg)
